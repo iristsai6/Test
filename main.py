@@ -117,14 +117,8 @@ SEED_BARS = [
     {"name":"The 9th Tap","city":"高雄","address":"高雄市苓雅區自強三路一帶","description":"多品牌精釀生啤輪換，隨時有 10 款以上選擇，氣氛熱鬧適合群體聚會，配餐炸物也很出色。","bar_type":"craft_beer","signature_drinks":"[\"West Coast IPA\",\"Sour Ale\",\"Nitro Stout\"]","map_query":"The 9th Tap 高雄"},
     {"name":"無名所 Nowhere Bar","city":"高雄","address":"高雄市鹽埕區（入口資訊請 Google 查尋提示）","description":"入口藏在一間普通商店後方，完整復刻禁酒令年代的吧台與卡座。不接受 walk-in，需提前傳訊預約。","bar_type":"speakeasy","signature_drinks":"[\"Prohibition Cocktail\",\"Rye Manhattan\",\"Absinthe Drip\"]","map_query":"Nowhere Bar 高雄鹽埕"},
     {"name":"House No.9","city":"高雄","address":"高雄市新興區（細節請私訊 IG 查詢）","description":"藏身公寓三樓，無招牌，以會員制運作。調酒師曾赴東京修習，酒單高度客製化，每位來客都獲得獨一無二的體驗。","bar_type":"speakeasy","signature_drinks":"[\"Bespoke Cocktail\",\"Aged Negroni\",\"Milk Punch\"]","map_query":"House No.9 高雄新興"},
-    {
-  "name": "谷山映像館","city": "高雄",
-  "address": "804高雄市鼓山區延平里濱海一路58號",
-  "description": "獨立模仿的沖洗暗房相當有趣。與當地歷史與文化結合讓酒館不只是酒館，更是在繁雜社會的避風港",
-  "bar_type": "cocktail",
-  "signature_drinks": "[\"翠嶺泡泉\", \"潮聲未歇\", \"鼓山周杰倫\"]",
-  "map_query": "谷山映像館"
-}
+    {"name": "谷山映像館","city": "高雄",  "address": "804高雄市鼓山區延平里濱海一路58號","description": "獨立模仿的沖洗暗房相當有趣。與當地歷史與文化結合讓酒館不只是酒館，更是在繁雜社會的避風港","bar_type": "cocktail",  "signature_drinks": "[\"翠嶺泡泉\", \"潮聲未歇\", \"鼓山周杰倫\"]",  "map_query": "谷山映像館"},
+    {"name": "Gallery 20.5","city": "高雄",  "address": "802高雄市苓雅區中正二路56巷33弄20號1樓","description": "隱身於畫廊之中的故事，沿著通往1920的時光隧道，專屬禁酒令時期的獨特浪漫，仔細尋找秘密通道，我在那等你","bar_type": "Speakeasy","signature_drinks":"[\"金鹹桃\", \"芭芒柳汽水 OMG Tonic\", \"文化中心4號出口\", \"松露薯條\"]","map_query": "Gallery 20.5"}
 ]
 
 # ── App ───────────────────────────────────────────────────────────────────────
