@@ -270,3 +270,7 @@ async def ask_claude(req: ClaudeRequest):
     return {"reply": "".join(c.get("text", "") for c in data.get("content", []))}
 
 # uvicorn main:app --reload --port 8000
+if __name__ == "__main__":
+    import uvicorn
+    # 這行會真正啟動伺服器
+    uvicorn.run(app, host="0.0.0.0", port=8000)
